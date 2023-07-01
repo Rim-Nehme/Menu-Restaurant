@@ -1,0 +1,70 @@
+.size{
+    font-size: 20px;
+    color: rgb(226, 60, 60);
+    margin-bottom: -14px;
+}
+.french_size{
+    font-size: 18px;
+    margin-bottom: -14px;
+    color: rgb(214, 16, 16);
+
+
+}
+.distance_after_sauce{
+    margin-bottom: -14px;
+    color: rgb(61, 58, 58);
+}
+.space1{
+    margin-bottom: 40px;
+    color: rgb(61, 58, 58) ;
+}
+.distance_after_p{
+    margin-bottom: -6px;
+    color:rgb(61, 58, 58);
+}
+.clr{
+    color: rgb(61, 58, 58);
+}
+
+.headers{
+    background-color: rgb(196, 13, 13);
+    margin-bottom: 8px;
+    border: none;
+    height: 60px;
+    width: 1250px;
+    color: white;
+    margin-left: -580px;
+    cursor: pointer;   
+}
+.menu{
+    margin-left: 500px;
+    margin-bottom: -14px;
+}
+.soustitre{
+    margin-left: 450px;
+    color:rgb(119, 114, 114);
+   
+}
+.distance_after_cocktail{
+    
+    color: rgb(61, 58, 58);
+}
+.distance_after_l{
+    color:rgb(61, 58, 58);
+    margin-top: -14px;
+}
+.button__icon{
+    color: white;
+    
+}
+.image{
+    width: 1250px;
+    height: 200px;
+}
+.fries{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 100px;
+}
